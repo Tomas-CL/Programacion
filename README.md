@@ -1,3 +1,3 @@
 # Programacion
 
-- (curso):[https://retosdeprogramacion.com/roadmap]
+- [Curso de programacion](https://retosdeprogramacion.com/roadmap)
